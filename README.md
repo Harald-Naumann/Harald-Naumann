@@ -1,6 +1,6 @@
 ## Github profile for Harald Naumann
 
-**username:** @HaraldNaumann
+**username:** @Harald-Naumann
 
 **Name:** Harald Naumann
 
